@@ -1,4 +1,4 @@
-#projectsPage {
+.projects-page {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
@@ -12,12 +12,15 @@
     border: 2px solid #242423;
     background-color: #E8EDDF;
     border-radius: 5px;
+    text-align: center;
+    font-family: 'Brawler', serif;
 }
 
 .project-title {
     text-align: center;
     background-color: #F5CB5C;
     color: #333533;
+    font-family: 'Bungee Inline', cursive;
 }
 .project-info img {
     display: block;
@@ -27,18 +30,4 @@
     margin-bottom: 10px;
     padding: 10px;
     width: 75%;
-}
-
-.project-description {
-    text-align: center;
-}
-
-.project-tech {
-    text-align: center;
-}
-.project-url {
-    text-align: center;
-}
-.project-hub {
-    text-align: center;
 }

@@ -3,15 +3,23 @@
     justify-content: center;
     }
     
-    #bioPage {
+    .bio-page {
         background-color: #E8EDDF;
         border: 2px solid black;
         border-radius: 5px;
         margin: 10px 0;
         text-align: justify;
         width: 75%;
+        font-family: 'Brawler', serif;
     }
     
-    #bioPage p {
+    .bio-page p {
         margin: 10px 5px;
+    }
+
+    .bio-page img {
+        width: 150px;
+        margin: 10px;
+        float: right;
+        clear: left;
     }
