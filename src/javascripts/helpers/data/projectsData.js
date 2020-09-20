@@ -1,7 +1,13 @@
+import Dino from '../../../assets/images/dino-kennel.png';
+import Adoption from '../../../assets/images/petAdoption.jpg';
+import Sorting from '../../../assets/images/sortingHat.jpg';
+import Chatty from '../../../assets/images/chatty.png';
+import Tamagotchi from '../../../assets/images/tamagotchi.png';
+
 const projects = [
   {
     title: 'Pet Adoption',
-    screenshot: './src/assets/images/petAdoption.jpg',
+    screenshot: `${Adoption}`,
     description:
       'A single page site that shows pets up for adoption and allows filtering based on the type of pet.',
     technologiesUsed:
@@ -12,7 +18,7 @@ const projects = [
   },
   {
     title: 'Dino Kennel',
-    screenshot: '../../../../src/assets/images/dino-kennel.png',
+    screenshot: `${Dino}`,
     description: 'A single page application that lets the user be in charge of a dinosaur kennel.',
     technologiesUsed:
       'HTML, CSS, Vanilla JavaScript, Version Control with Github, Bootstrap, Modules',
@@ -22,7 +28,7 @@ const projects = [
   },
   {
     title: 'The Sorting Hat',
-    screenshot: './src/assets/images/sortingHat.jpg',
+    screenshot: `${Sorting}`,
     description:
       'A single page site that allows users to input their name and randomly assigns them a house.',
     technologiesUsed:
@@ -33,7 +39,7 @@ const projects = [
   },
   {
     title: 'Chatty',
-    screenshot: './src/assets/images/chatty.png',
+    screenshot: `${Chatty}`,
     description:
       'A fun chat application based on the Peanuts comic strip.',
     technologiesUsed:
@@ -44,7 +50,7 @@ const projects = [
   },
   {
     title: 'Tamagotchi',
-    screenshot: './src/assets/images/tamagotchi.png',
+    screenshot: `${Tamagotchi}`,
     description:
       'A single-page website that lets the user take care of a virtual pet.',
     technologiesUsed:
