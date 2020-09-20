@@ -12,7 +12,7 @@ const projects = [
   },
   {
     title: 'Dino Kennel',
-    screenshot: './src/assets/images/dino-kennel.png',
+    screenshot: '../../../../src/assets/images/dino-kennel.png',
     description: 'A single page application that lets the user be in charge of a dinosaur kennel.',
     technologiesUsed:
       'HTML, CSS, Vanilla JavaScript, Version Control with Github, Bootstrap, Modules',
