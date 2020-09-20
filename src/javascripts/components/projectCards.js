@@ -7,7 +7,7 @@ const printToDom = (divId, stringToPrint) => {
 
 const createProjectCards = () => {
   let domString = '';
-  const myProjects = Projects.projects;
+  const myProjects = Projects.getProject();
 
   for (let i = 0; i < myProjects.length; i += 1) {
     if (myProjects[i].available === true) {
