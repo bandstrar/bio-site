@@ -1,0 +1,43 @@
+#projectsPage {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.project-info {
+    display: flex;
+    flex-flow: column nowrap;
+    width: 40%;
+    margin: 20px;
+    border: 2px solid #242423;
+    background-color: #E8EDDF;
+}
+
+.project-title {
+    text-align: center;
+    background-color: #F5CB5C;
+    color: #333533;
+}
+.project-info img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 50%;
+}
+
+.project-description {
+    text-align: center;
+}
+
+.project-tech {
+    text-align: center;
+}
+.project-url {
+    text-align: center;
+}
+.project-hub {
+    text-align: center;
+}

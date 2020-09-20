@@ -1,0 +1,19 @@
+#technologiesPage {
+    width: 30%;
+    margin: auto;
+}
+
+#technologiesPage img {
+    width: 70px;
+}
+.listContainer {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#technologiesPage li {
+    margin: 10px 5px;
+}

@@ -1,0 +1,16 @@
+.bio-container {
+    display: flex;
+    justify-content: center;
+    }
+    
+    #bioPage {
+        background-color: #E8EDDF;
+        border: 5px solid black;
+        margin: 10px 0;
+        text-align: justify;
+        width: 75%;
+    }
+    
+    #bioPage p {
+        margin: 10px 5px;
+    }
