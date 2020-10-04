@@ -1,8 +1,8 @@
 import '../styles/main.scss';
-import Cards from './components/projectCards';
+import Views from './components/views/projectsView';
 
 const init = () => {
-  Cards.createProjectCards();
+  Views.projectView();
 };
 
 init();
