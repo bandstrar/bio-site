@@ -25,8 +25,28 @@
             "description": "A single-page website that lets the user take care of a virtual pet.",
             "technologiesUsed":
               "Premade HTML (no HTML added except using JavaScript), SASS, JavaScript, Version Control with Github, jQuery, Webpack",
-            "available": true,
+            "available": false,
             "url": "https://bandstrar-tamagotchi.netlify.app/",
             "githubUrl": "https://github.com/bandstrar/tamagotchi"
+    },
+    "project4": {
+        "title": "Le Baguette",
+            "screenshot": "https://i.imgur.com/WRUaNnI.png",
+            "description": "This site should keep track of staff, ingredients, reservations, and menu items. Authenticated users should be able to update, create and delete any of the data on the website. They can also track restaurant revenue and inventory, and add orders to reservations.",
+            "technologiesUsed":
+              "Firebase, SASS, JavaScript, Version Control with Github, jQuery, Webpack",
+            "available": true,
+            "url": "https://le-baguette-e03bd.web.app/",
+            "githubUrl": "https://github.com/bandstrar/Le-Baguette"
+    },
+    "project5": {
+        "title": "Shark Attack",
+            "screenshot": "https://i.imgur.com/PbOSJt9.png",
+            "description": "Shark Attack is an application that shows people in a shark tank. There is a button in the tank to cause a shark attack. The shark will attack a random person and send them to the graveyard.",
+            "technologiesUsed":
+              "JS React, SASS, Version Control with Github, Webpack",
+            "available": true,
+            "url": "https://bandstrar-shark-attack.netlify.app/",
+            "githubUrl": "https://github.com/bandstrar/shark-attack"
     }
 }
