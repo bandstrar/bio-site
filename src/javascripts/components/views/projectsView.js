@@ -5,7 +5,9 @@ const projectView = () => {
   projectData.getProject().then((response) => {
     if (response.length) {
       response.forEach((item) => {
-        $('#projectsPage').append(card.createProjectCards(item));
+        if (item.available === true) {
+          $('#projectsPage').append(card.createProjectCards(item));
+        }
       });
     }
   });
