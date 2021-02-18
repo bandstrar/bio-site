@@ -1,14 +1,14 @@
 {
-    "project1": {
-            "title": "Dino Kennel",
-            "screenshot": "https://i.imgur.com/qM4R8ge.png",
-            "description": "A single page application that lets the user be in charge of a dinosaur kennel.",
-            "technologiesUsed":
-              "HTML, CSS, Vanilla JavaScript, Version Control with Github, Bootstrap, Modules",
-            "available": true,
-            "url": "https://bandstrar-dino-kennel.netlify.app/",
-            "githubUrl": "https://github.com/bandstrar/dino-kennel"
-    },
+  "project1": {
+    "title": "BookShelves (Front-End Capstone)",
+        "screenshot": "https://i.imgur.com/B5AOJPb.png",
+        "description": "BookShelves is an application that enables a user to track their personal book collection. The user will have access to several shelves that they can add their books to, and can add new shelves. The user will also have access to features to personalize the books in their collection, such as notes and rating.",
+        "technologiesUsed":
+          "JS React, SASS, Version Control with Github, Firebase, Google Books API, Reactstrap, React-Multi-Carousel, React-Ratings-Declarative",
+        "available": true,
+        "url": "https://bandstrar-bookshelves.netlify.app/",
+        "githubUrl": "https://github.com/bandstrar/bookshelf"
+},
     "project2": {
         "title": "Chatty",
             "screenshot": "https://i.imgur.com/rjt799q.png",
@@ -45,8 +45,19 @@
             "description": "Shark Attack is an application that shows people in a shark tank. There is a button in the tank to cause a shark attack. The shark will attack a random person and send them to the graveyard.",
             "technologiesUsed":
               "JS React, SASS, Version Control with Github, Webpack",
-            "available": true,
+            "available": false,
             "url": "https://bandstrar-shark-attack.netlify.app/",
             "githubUrl": "https://github.com/bandstrar/shark-attack"
-    }
+    },
+    "project6": {
+      "title": "Dino Kennel",
+      "screenshot": "https://i.imgur.com/qM4R8ge.png",
+      "description": "A single page application that lets the user be in charge of a dinosaur kennel.",
+      "technologiesUsed":
+        "HTML, CSS, Vanilla JavaScript, Version Control with Github, Bootstrap, Modules",
+      "available": true,
+      "url": "https://bandstrar-dino-kennel.netlify.app/",
+      "githubUrl": "https://github.com/bandstrar/dino-kennel"
+}
+
 }
