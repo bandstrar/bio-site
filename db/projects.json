@@ -9,17 +9,27 @@
         "url": "https://bandstrar-bookshelves.netlify.app/",
         "githubUrl": "https://github.com/bandstrar/bookshelf"
 },
-    "project2": {
+"project2": {
+  "title": "GameNight",
+  "screenshot": "https://i.imgur.com/PyQNN1m.png",
+  "description": "The goal of GameNight is to help people schedule and plan game nights with their friends. GameNight users can make and join groups with their friends, and choose and vote on games to play based on games in the group's collection.",
+  "technologiesUsed":
+    "C#, .NET Core, SQL Server, JS React, SASS, Version Control with Github, Reactstrap, Firebase, Material-UI, React-Hook-Form",
+  "available": true,
+  "url": "https://bandstrar-game-night.netlify.app/",
+  "githubUrl": "https://github.com/bandstrar/GameNight"
+},
+    "project3": {
         "title": "Chatty",
             "screenshot": "https://i.imgur.com/rjt799q.png",
             "description": "A fun chat application based on the Peanuts comic strip.",
             "technologiesUsed":
               "HTML, SASS, Vanilla JavaScript, Version Control with Github, jQuery, Bootstrap, Webpack",
-            "available": true,
+            "available": false,
             "url": "https://bandstrar-chatty.netlify.app/",
             "githubUrl": "https://github.com/bandstrar/chatty-beta"
     },
-    "project3": {
+    "project4": {
         "title": "Tamagotchi",
             "screenshot": "https://i.imgur.com/1ME0Ynl.png",
             "description": "A single-page website that lets the user take care of a virtual pet.",
@@ -29,7 +39,7 @@
             "url": "https://bandstrar-tamagotchi.netlify.app/",
             "githubUrl": "https://github.com/bandstrar/tamagotchi"
     },
-    "project4": {
+    "project5": {
         "title": "Le Baguette",
             "screenshot": "https://i.imgur.com/WRUaNnI.png",
             "description": "This site should keep track of staff, ingredients, reservations, and menu items. Authenticated users should be able to update, create and delete any of the data on the website. They can also track restaurant revenue and inventory, and add orders to reservations.",
@@ -39,7 +49,7 @@
             "url": "https://le-baguette-e03bd.web.app/",
             "githubUrl": "https://github.com/bandstrar/Le-Baguette"
     },
-    "project5": {
+    "project6": {
         "title": "Shark Attack",
             "screenshot": "https://i.imgur.com/PbOSJt9.png",
             "description": "Shark Attack is an application that shows people in a shark tank. There is a button in the tank to cause a shark attack. The shark will attack a random person and send them to the graveyard.",
@@ -49,7 +59,7 @@
             "url": "https://bandstrar-shark-attack.netlify.app/",
             "githubUrl": "https://github.com/bandstrar/shark-attack"
     },
-    "project6": {
+    "project7": {
       "title": "Dino Kennel",
       "screenshot": "https://i.imgur.com/qM4R8ge.png",
       "description": "A single page application that lets the user be in charge of a dinosaur kennel.",
